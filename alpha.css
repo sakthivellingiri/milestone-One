@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:ital,wght@0,400;0,500;1,400&family=Borel&family=Bree+Serif&family=Lugrasimo&display=swap');
+ 
+      /* nav-bar */
+
+.MainPage{
+    background-image: linear-gradient(to  top right ,blue,black,blue);
+    background-repeat: no-repeat;
+    width: 100%;
+    color: white;
+}
+
+.navbar-brand{
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+.nav-link{
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+.nav-link:hover{
+    border-radius: 10px;
+    border-bottom: 2px solid blue;
+}
+.homeColor{
+    color: wheat;
+}
+.homeColorspan{
+    color: red;
+}
+.homeColorname{
+    color: gold;
+}
+
+/* ABOUT */
+
+.aboutHeader:hover{
+    border-radius: 10px;
+    border-bottom: 2px solid gold;
+}
+.aboutPara{
+    text-align: justify;
+    color: ;
+}
+.aboutButton{
+    border: 2px solid white;
+    color: black;
+    background-color: white;
+    text-decoration: none;   
+}
+.aboutButton:hover{
+    background-color: gold;
+    transform: scale(1.1);
+}
+.aboutImg:hover{
+    transform: scale(1.1);
+}
+/* EDUCATION */
+.eduCardone:hover{
+    transform: scale(1.1);
+}
+.eduCardone{
+    box-shadow: 10px 10px 5px gold;
+}
+.eduHeader:hover{
+    border-radius: 10px;
+    border-bottom: 2px solid gold;
+
+}
+.cerHeader:hover{
+    border-radius: 10px;
+    border-bottom: 2px solid gold;
+}
+
+
